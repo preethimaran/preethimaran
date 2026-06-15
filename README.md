@@ -23,3 +23,5 @@ During my Master's, I spent a lot of time diving into the world of Machine Learn
 In addition to all this, I am also a full-stack developer and have built various web applications using JavaScript, Node.js, Express, and React.
 
 Did I not say Jack of all trades? That's yours truly.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preethimaran&layout=donut)](https://github.com/preethimaran/github-readme-stats)
