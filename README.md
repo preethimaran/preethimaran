@@ -26,4 +26,4 @@ Did I not say Jack of all trades? That's yours truly.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preethimaran&layout=donut&theme=omni)](https://github.com/preethimaran/github-readme-stats)
 
-![Preethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preethimaran&show_icons=true&theme=omni)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=preethimaran)](https://github.com/preethimaran/github-readme-stats)
