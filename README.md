@@ -27,6 +27,7 @@ Did I not say Jack of all trades? That's yours truly.
 
 
 ### Tech Stack
+---
 
 **Languages & Databases:** JavaScript, Python, SQL, MongoDB
 
