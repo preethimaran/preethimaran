@@ -26,10 +26,14 @@ In addition to all this, I am also a full-stack developer and have built various
 Did I not say Jack of all trades? That's yours truly.
 
 
-###Tech Stack
-- JavaScript, Python, SQL, MongoDB
-- React Node.js, Express, FastAPI
-- Pandas, Mathplotlib, scikit learn, tensorflow
-- PowerBI
+### Tech Stack
+
+**Languages & Databases:** JavaScript, Python, SQL, MongoDB
+
+**Frontend & Backend:** React, Node.js, Express.js, FastAPI
+
+**Data Science & ML:** Pandas, Matplotlib, Scikit-Learn, TensorFlow
+
+**Analytics & Visualization:** Power BI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preethimaran&layout=donut&theme=omni)](https://github.com/preethimaran/github-readme-stats)
