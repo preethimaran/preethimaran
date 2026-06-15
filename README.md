@@ -23,6 +23,7 @@ I previously worked as a Graduate Analyst at Barclays PLC, where I spent 4 years
 
 
 During my Master's, I spent a lot of time diving into the world of Machine Learning and Artificial Intelligence, and have worked on multiple projects applying ML, AI, and NLP across various domains.
+
 In addition to all this, I am also a full-stack developer and have built various web applications using JavaScript, Node.js, Express, and React.
 
 Did I not say Jack of all trades? That's yours truly.
