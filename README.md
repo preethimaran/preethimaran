@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Introduction
+## About Me
 ---
 
 Hello, I am Preethi, a perpetual learner, as a true Gemini, so to speak. I am a Jack of all trades, and the full phrase is "Jack of all trades but master of none, is better than a master of one!", so yes, it is a positive thing, duh!!
