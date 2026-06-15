@@ -26,7 +26,7 @@ In addition to all this, I am also a full-stack developer and have built various
 Did I not say Jack of all trades? That's yours truly.
 
 
-### Tech Stack
+###Tech Stack
 - JavaScript, Python, SQL, MongoDB
 - React Node.js, Express, FastAPI
 - Pandas, Mathplotlib, scikit learn, tensorflow
