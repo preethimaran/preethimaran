@@ -40,3 +40,8 @@ Did I not say Jack of all trades? That's yours truly.
 **Analytics & Visualization:** Power BI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preethimaran&layout=donut&theme=omni)](https://github.com/preethimaran/github-readme-stats)
+
+## Other Interests
+- Reading
+- Watching TV shows
+- Digital Art
