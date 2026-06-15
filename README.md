@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
----
+
 
 Hello, I am Preethi, a perpetual learner, as a true Gemini, so to speak. I am a Jack of all trades, and the full phrase is "Jack of all trades but master of none, is better than a master of one!", so yes, it is a positive thing, duh!!
 
@@ -28,8 +28,7 @@ In addition to all this, I am also a full-stack developer and have built various
 Did I not say Jack of all trades? That's yours truly.
 
 
-### Tech Stack
----
+## Tech Stack
 
 **Languages & Databases:** JavaScript, Python, SQL, MongoDB
 
